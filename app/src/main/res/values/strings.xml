@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Surplus to Share</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="promo">
+        <item name="Promo1">Ready to deliver to your home</item>
+        <item name="Promo2">Get free delivery for over $100 spent</item>
+        <item name="Promo3">Receive rewards to dine in restaurant</item>
+        <item name="Promo4">Claim amazing rewards with points</item>
+    </string-array>
+
+    <string-array name="justInTitle">
+        <item name="justIn1">Dave\'s Killer bread</item>
+        <item name="justIn2">Stonyfield Greek Yogurt</item>
+        <item name="justIn3">Magnum Ice Cream Tub</item>
+        <item name="justIn4">Sara Lee Plain Bagel</item>
+    </string-array>
+
+    <string-array name="justInPrice">
+        <item name="justInPrice1">$5.99</item>
+        <item name="justInPrice2">$7.60</item>
+        <item name="justInPrice3">$8.50</item>
+        <item name="justInPrice4">$4.99</item>
+    </string-array>
+
+    <string-array name="storeOpenHours">
+        <item name="store1">8am to 9pm</item>
+        <item name="store2">9am to 10:30pm</item>
+        <item name="store3">7:30pm to 11pm</item>
+        <item name="store4">10am to 10pm</item>
+        <item name="store1">8am to 9pm</item>
+        <item name="store2">9am to 10:30pm</item>
+        <item name="store3">7:30pm to 11pm</item>
+        <item name="store4">10am to 10pm</item>
+    </string-array>
+
+    <string-array name="storeSalesStart">
+        <item name="store1">9am</item>
+        <item name="store2">10am</item>
+        <item name="store3">11am</item>
+        <item name="store4">12pm</item>
+        <item name="store1">9am</item>
+        <item name="store2">10am</item>
+        <item name="store3">11am</item>
+        <item name="store4">12pm</item>
+    </string-array>
+
+    <string-array name="storeLocation">
+        <item name="store1">Sembawang Drive 850356</item>
+        <item name="store2">Yishun Drive 850356</item>
+        <item name="store3">Woodlands Drive 850356</item>
+        <item name="store4">Khatib Drive 850356</item>
+        <item name="store1">Sembawang Drive 850356</item>
+        <item name="store2">Yishun Drive 850356</item>
+        <item name="store3">Woodlands Drive 850356</item>
+        <item name="store4">Khatib Drive 850356</item>
+    </string-array>
+
+    <string-array name="foodItemName1">
+        <item name="food1">Dessert Box</item>
+        <item name="food2">Seafood Box</item>
+        <item name="food3">Fruits Box</item>
+        <item name="food4">Chinese Cuisines</item>
+        <item name="food5">Meat Platter</item>
+        <item name="food6">Mexican Box</item>
+        <item name="food7">Japanese Box</item>
+        <item name="food8">Pastry Kind</item>
+    </string-array>
+
+    <string-array name="foodItemPrice1">
+        <item name="food1">$9.90</item>
+        <item name="food2">$15.50</item>
+        <item name="food3">$6.90</item>
+        <item name="food4">$7.80</item>
+        <item name="food5">$15.90</item>
+        <item name="food6">$18.80</item>
+        <item name="food7">$20.00</item>
+        <item name="food8">$12.30</item>
+    </string-array>
+
+    <string-array name="foodItemDesc1">
+        <item name="food1">[Contains Cake, Cupcakes, donuts]</item>
+        <item name="food2">[Contains prawns, lobsters and octopus]</item>
+        <item name="food3">[Contains Oranges, Apples, Bananas, Grapes]</item>
+        <item name="food4">[Contains all types of chinese cuisine]</item>
+        <item name="food5">[Contains Beef, Chicken, Fish and Pork]</item>
+        <item name="food6">[CContains Burritos, Tacos and guacamole]</item>
+        <item name="food7">[Contains the wonders of japanese cuisines]</item>
+        <item name="food8">[Contains all sorts of flour breads]</item>
+    </string-array>
+
+    <!--    <string-array name="foodItemName2">-->
+    <!--        <item name="food7">Japanese Box</item>-->
+    <!--        <item name="food1">Dessert Box</item>-->
+    <!--        <item name="food8">Pastry Kind</item>-->
+    <!--        <item name="food4">Chinese Cuisines</item>-->
+    <!--        <item name="food3">Fruits Box</item>-->
+    <!--        <item name="food5">Meat Platter</item>-->
+    <!--        <item name="food6">Mexican Box</item>-->
+    <!--        <item name="food2">Seafood Box</item>-->
+    <!--    </string-array>-->
+    <!--    -->
+    <!--    <string-array name="foodItemName3">-->
+    <!--        <item name="food2">Seafood Box</item>-->
+    <!--        <item name="food3">Fruits Box</item>-->
+    <!--        <item name="food5">Meat Platter</item>-->
+    <!--        <item name="food6">Mexican Box</item>-->
+    <!--        <item name="food8">Pastry Kind</item>-->
+    <!--        <item name="food1">Dessert Box</item>-->
+    <!--        <item name="food7">Japanese Box</item>-->
+    <!--        <item name="food4">Chinese Cuisines</item>-->
+    <!--    </string-array>-->
+
+    <!--    <string-array name="foodItemName4">-->
+    <!--        <item name="food6">Mexican Box</item>-->
+    <!--        <item name="food1">Dessert Box</item>-->
+    <!--        <item name="food3">Fruits Box</item>-->
+    <!--        <item name="food4">Chinese Cuisines</item>-->
+    <!--        <item name="food8">Pastry Kind</item>-->
+    <!--        <item name="food5">Meat Platter</item>-->
+    <!--        <item name="food2">Seafood Box</item>-->
+    <!--        <item name="food7">Japanese Box</item>-->
+    <!--    </string-array>-->
+
+
+</resources>

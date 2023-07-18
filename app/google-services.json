@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "72519187069",
+    "project_id": "surplus-to-share",
+    "storage_bucket": "surplus-to-share.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72519187069:android:39bc8ba75ca8c658ef4f14",
+        "android_client_info": {
+          "package_name": "com.example.surplustoshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72519187069-68arbcuhso6o3ckt61ocp3i6bb3mm7jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.surplustoshare",
+            "certificate_hash": "ff8d426a498a0e686c9e5033f00df286a52d4635"
+          }
+        },
+        {
+          "client_id": "72519187069-bdmacm3n6cr4s8qunvcph6acimnjoi0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjiIjhqQ9TnOiwjOHHOsXfOsymHTFnxUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72519187069-bdmacm3n6cr4s8qunvcph6acimnjoi0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
